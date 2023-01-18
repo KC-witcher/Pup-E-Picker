@@ -1,32 +1,36 @@
-import { useState, useEffect } from "react";
 import { FavoriteButton } from "./FavoriteButton";
 import { TrashButton } from "./TrashButton";
 import { UnfavoriteButton } from "./UnfavoriteButton";
 
-export const DogCard = (dogs, setDogId, setDogFavStatus) => {
+export const DogCard = ({ dogs, getPatchDogs, getDeleteDogs }) => {
   const handleFavButtonClick = (currId, currStatus) => {
-    // console.log(currId, !currStatus);
-    setDogId(currId);
-    // setDogFavStatus(!currStatus);
+    getPatchDogs(currId, currStatus);
   };
 
+  const handleDeleteButton = (currId) => {
+    getDeleteDogs(currId);
+  };
   return (
     <>
-      {dogs.dogs.map((dog) => (
+      {dogs.map((dog) => (
         <div className="dog-card" key={dog.id}>
           {/* Choose which button to show depending on if dog is a favorite */}
           {dog.isFavorite ? (
             <UnfavoriteButton
-              onClick={() => handleFavButtonClick(dog.id, dog.isFavorite)}
+              onClick={() => handleFavButtonClick(dog.id, !dog.isFavorite)}
             />
           ) : (
             <FavoriteButton
-              onClick={() => handleFavButtonClick(dog.id, dog.isFavorite)}
+              onClick={() => handleFavButtonClick(dog.id, !dog.isFavorite)}
             />
           )}
 
           {/* Use this button to delete a puppy :( */}
-          <TrashButton disabled={true} onClick={() => {}} />
+          <TrashButton
+            onClick={() => {
+              handleDeleteButton(dog.id);
+            }}
+          />
 
           {/* Ignore this  */}
           {/* You can temporarily set a favorite overlay after a user favoritest a dog */}

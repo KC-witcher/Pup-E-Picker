@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import { useState } from "react";
 import { CreateDogForm } from "./CreateDogForm";
 import { DogCard } from "./DogCard";
@@ -10,22 +9,14 @@ export const Section = ({
   allDogsList,
   setCurrDogId,
   setCurrDogStatus,
+  patchDogs,
+  deleteDogs,
+  setSpecificDogs,
+  createDogs,
 }) => {
   const [favActive, setFavActive] = useState(false);
   const [unfavActive, setUnFavActive] = useState(false);
   const [createActive, setCreateActive] = useState(false);
-  const [specificDogs, setSpecificDogs] = useState("all");
-  const [cardDogs, setCardDogs] = useState([]);
-
-  useEffect(() => {
-    if (specificDogs === "all") {
-      setCardDogs(allDogsList);
-    } else if (specificDogs === "fav") {
-      setCardDogs(allDogsList.filter((dog) => dog.isFavorite));
-    } else if (specificDogs === "unfav") {
-      setCardDogs(allDogsList.filter((dog) => !dog.isFavorite));
-    }
-  }, [specificDogs]);
 
   const toggleFav = () => {
     if (favActive) {
@@ -92,12 +83,14 @@ export const Section = ({
         </div>
       </div>
       {createActive ? (
-        <CreateDogForm />
+        <CreateDogForm createDogs={createDogs} />
       ) : (
         <DogCard
-          dogs={cardDogs.length ? cardDogs : allDogsList}
+          dogs={allDogsList}
           setDogId={setCurrDogId}
           setDogFavStatus={setCurrDogStatus}
+          getPatchDogs={patchDogs}
+          getDeleteDogs={deleteDogs}
         />
       )}
     </section>

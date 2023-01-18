@@ -1,144 +1,18 @@
 {
   "dogs": [
     {
-      "name": "William",
-      "image": "/src/assets/boxer.png",
-      "description": "Product Oriental West RAM Innovative Iodine Alabama",
-      "isFavorite": false,
-      "id": 0
+      "name": "Hercules",
+      "image": "/src/assets/boxer.jpeg",
+      "description": "Strongest Dog Breed",
+      "id": 3,
+      "isFavorite": false
     },
     {
-      "name": "Rebeca",
-      "image": "/src/assets/dalmation.png",
-      "description": "Mountain Corine synergy Director Northwest Interactions Interactions",
-      "isFavorite": true,
-      "id": 1
-    },
-    {
-      "name": "Bryana",
+      "name": "New Doggie",
       "image": "/src/assets/chihuahua.avif",
-      "description": "dolores CFA Finland Director copy sourwood virtual feed",
-      "isFavorite": false,
-      "id": 2
-    },
-    {
-      "name": "Marco",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "hacking Aston origin playful capacitor forenenst visionary",
-      "isFavorite": true,
-      "id": 3
-    },
-    {
-      "name": "Bonnie",
-      "image": "/src/assets/dalmation.png",
-      "description": "deposit Incredible up Representative Optimization synthesize male models",
-      "isFavorite": false,
-      "id": 4
-    },
-    {
-      "name": "Brad",
-      "image": "/src/assets/corgi.png",
-      "description": "regarding firewall Internal Naira Fish upbeat Fish",
-      "isFavorite": true,
-      "id": 5
-    },
-    {
-      "name": "Ramiro",
-      "image": "/src/assets/boxer.png",
-      "description": "Hahn Latin though Electric Beach",
-      "isFavorite": false,
-      "id": 6
-    },
-    {
-      "name": "Syble",
-      "image": "/src/assets/dalmation.png",
-      "description": "Account hub payment quasi Car Rubber Martinique Southeast",
-      "isFavorite": false,
-      "id": 7
-    },
-    {
-      "name": "Davonte",
-      "image": "/src/assets/boxer.png",
-      "description": "Diesel meanwhile likewise cleverly Coupe input whereas slavery",
-      "isFavorite": true,
-      "id": 8
-    },
-    {
-      "name": "Destany",
-      "image": "/src/assets/dalmation.png",
-      "description": "networks Face Greenville East Pizza Accountability Strategist niches",
-      "isFavorite": false,
-      "id": 9
-    },
-    {
-      "name": "Sandy",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "roughhouse OCR Buckinghamshire Integration BMW",
-      "isFavorite": false,
-      "id": 10
-    },
-    {
-      "name": "Lola",
-      "image": "/src/assets/cowardly.png",
-      "description": "optical transmit Corporate Concrete gloomy Cotton siemens",
-      "isFavorite": false,
-      "id": 11
-    },
-    {
-      "name": "Clementine",
-      "image": "/src/assets/corgi.png",
-      "description": "plum Folk Man whether Indium Promethium salmon Crew",
-      "isFavorite": false,
-      "id": 12
-    },
-    {
-      "name": "Tierra",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Sedan JBOD Hat Nevada Wooden",
-      "isFavorite": false,
-      "id": 13
-    },
-    {
-      "name": "Kaylin",
-      "image": "/src/assets/dalmation.png",
-      "description": "East Benin Automotive bandwidth Configuration",
-      "isFavorite": false,
-      "id": 14
-    },
-    {
-      "name": "Eulah",
-      "image": "/src/assets/dalmation.png",
-      "description": "connecting azure Account Indiana Analyst Promethium Bicycle",
-      "isFavorite": false,
-      "id": 15
-    },
-    {
-      "name": "Janiya",
-      "image": "/src/assets/dalmation.png",
-      "description": "female Operations Hyundai placeat valid solutions technologies",
-      "isFavorite": false,
-      "id": 16
-    },
-    {
-      "name": "Vivian",
-      "image": "/src/assets/cowardly.png",
-      "description": "cyan Paradigm Demiflux male middleware Northeast parsing Handcrafted",
-      "isFavorite": false,
-      "id": 17
-    },
-    {
-      "name": "Lisa",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "quantify Nobelium South Country essential Account sticky",
-      "isFavorite": true,
-      "id": 18
-    },
-    {
-      "name": "Rosemary",
-      "image": "/src/assets/cowardly.png",
-      "description": "maroon Regional Phosphorus Market amet complexity orchid marketplace",
-      "isFavorite": false,
-      "id": 19
+      "description": "My New Doggie",
+      "id": 4,
+      "isFavorite": true
     }
   ]
 }
