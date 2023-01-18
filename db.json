@@ -1,1 +1,144 @@
-{"dogs":[{"name":"Thora","image":"/src/assets/boxer.png","description":"South frictionless atque architectures Legacy reintermediate payment East","isFavorite":false,"id":0},{"name":"Clifford","image":"/src/assets/cowardly.png","description":"Buckinghamshire peal outmaneuver Cargo compressing utilize Southwest whiff","isFavorite":false,"id":1},{"name":"Jeff","image":"/src/assets/dalmation.png","description":"Granite North connect Baht Metal North holistic deposit","isFavorite":true,"id":2},{"name":"Jadon","image":"/src/assets/blue-heeler.png","description":"aspernatur transmit Underpass female North tan music","isFavorite":true,"id":3},{"name":"Maribel","image":"/src/assets/cowardly.png","description":"Pants ohm Turcotte drive mole Southwest North Awesome","isFavorite":true,"id":4},{"name":"Kiara","image":"/src/assets/blue-heeler.png","description":"quantify Assimilated yawning plain bypassing","isFavorite":true,"id":5},{"name":"Hunter","image":"/src/assets/boxer.png","description":"Cheese Handcrafted owlishly program TCP Sanford shadowy","isFavorite":false,"id":6},{"name":"Cristopher","image":"/src/assets/dalmation.png","description":"Tuna primary Oriental calculate channels","isFavorite":true,"id":7},{"name":"Delores","image":"/src/assets/chihuahua.avif","description":"extend Soul Lake optimize Lead","isFavorite":true,"id":8},{"name":"Delaney","image":"/src/assets/corgi.png","description":"Zimbabwe parallelism Paradigm fuchsia International Algeria till Northwest","isFavorite":true,"id":9},{"name":"Leilani","image":"/src/assets/blue-heeler.png","description":"fussy meh overjoyed Sports Mississippi","isFavorite":true,"id":10},{"name":"Roscoe","image":"/src/assets/corgi.png","description":"Legacy Indiana Borders female Copernicium magenta program Human","isFavorite":false,"id":11},{"name":"Hollie","image":"/src/assets/dalmation.png","description":"Branding generating Bethesda benchmark Home Antonio AGP","isFavorite":true,"id":12},{"name":"Edna","image":"/src/assets/corgi.png","description":"olive Shoes Lempira Bespoke Northwest that Operations Coupe","isFavorite":false,"id":13},{"name":"Danika","image":"/src/assets/boxer.png","description":"naive unbearably Van Malden deposit while Dodge","isFavorite":true,"id":14},{"name":"Blake","image":"/src/assets/blue-heeler.png","description":"Account East Synchronised Northwest Agent","isFavorite":false,"id":15},{"name":"Friedrich","image":"/src/assets/chihuahua.avif","description":"Recumbent Director Architect geez indeed stand Kwanza South","isFavorite":false,"id":16},{"name":"Virginia","image":"/src/assets/corgi.png","description":"Cis Games deposit few Orchestrator Van implementation Dynamic","isFavorite":false,"id":17},{"name":"Adele","image":"/src/assets/cowardly.png","description":"grey though cheerfully auxiliary tan blue Volvo Gust","isFavorite":false,"id":18},{"name":"Kathryn","image":"/src/assets/cowardly.png","description":"payment Plastic Electric intranet Bicycle foreground Agent","isFavorite":false,"id":19}]}
+{
+  "dogs": [
+    {
+      "name": "William",
+      "image": "/src/assets/boxer.png",
+      "description": "Product Oriental West RAM Innovative Iodine Alabama",
+      "isFavorite": false,
+      "id": 0
+    },
+    {
+      "name": "Rebeca",
+      "image": "/src/assets/dalmation.png",
+      "description": "Mountain Corine synergy Director Northwest Interactions Interactions",
+      "isFavorite": true,
+      "id": 1
+    },
+    {
+      "name": "Bryana",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "dolores CFA Finland Director copy sourwood virtual feed",
+      "isFavorite": false,
+      "id": 2
+    },
+    {
+      "name": "Marco",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "hacking Aston origin playful capacitor forenenst visionary",
+      "isFavorite": true,
+      "id": 3
+    },
+    {
+      "name": "Bonnie",
+      "image": "/src/assets/dalmation.png",
+      "description": "deposit Incredible up Representative Optimization synthesize male models",
+      "isFavorite": false,
+      "id": 4
+    },
+    {
+      "name": "Brad",
+      "image": "/src/assets/corgi.png",
+      "description": "regarding firewall Internal Naira Fish upbeat Fish",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "name": "Ramiro",
+      "image": "/src/assets/boxer.png",
+      "description": "Hahn Latin though Electric Beach",
+      "isFavorite": false,
+      "id": 6
+    },
+    {
+      "name": "Syble",
+      "image": "/src/assets/dalmation.png",
+      "description": "Account hub payment quasi Car Rubber Martinique Southeast",
+      "isFavorite": false,
+      "id": 7
+    },
+    {
+      "name": "Davonte",
+      "image": "/src/assets/boxer.png",
+      "description": "Diesel meanwhile likewise cleverly Coupe input whereas slavery",
+      "isFavorite": true,
+      "id": 8
+    },
+    {
+      "name": "Destany",
+      "image": "/src/assets/dalmation.png",
+      "description": "networks Face Greenville East Pizza Accountability Strategist niches",
+      "isFavorite": false,
+      "id": 9
+    },
+    {
+      "name": "Sandy",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "roughhouse OCR Buckinghamshire Integration BMW",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Lola",
+      "image": "/src/assets/cowardly.png",
+      "description": "optical transmit Corporate Concrete gloomy Cotton siemens",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "name": "Clementine",
+      "image": "/src/assets/corgi.png",
+      "description": "plum Folk Man whether Indium Promethium salmon Crew",
+      "isFavorite": false,
+      "id": 12
+    },
+    {
+      "name": "Tierra",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Sedan JBOD Hat Nevada Wooden",
+      "isFavorite": false,
+      "id": 13
+    },
+    {
+      "name": "Kaylin",
+      "image": "/src/assets/dalmation.png",
+      "description": "East Benin Automotive bandwidth Configuration",
+      "isFavorite": false,
+      "id": 14
+    },
+    {
+      "name": "Eulah",
+      "image": "/src/assets/dalmation.png",
+      "description": "connecting azure Account Indiana Analyst Promethium Bicycle",
+      "isFavorite": false,
+      "id": 15
+    },
+    {
+      "name": "Janiya",
+      "image": "/src/assets/dalmation.png",
+      "description": "female Operations Hyundai placeat valid solutions technologies",
+      "isFavorite": false,
+      "id": 16
+    },
+    {
+      "name": "Vivian",
+      "image": "/src/assets/cowardly.png",
+      "description": "cyan Paradigm Demiflux male middleware Northeast parsing Handcrafted",
+      "isFavorite": false,
+      "id": 17
+    },
+    {
+      "name": "Lisa",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "quantify Nobelium South Country essential Account sticky",
+      "isFavorite": true,
+      "id": 18
+    },
+    {
+      "name": "Rosemary",
+      "image": "/src/assets/cowardly.png",
+      "description": "maroon Regional Phosphorus Market amet complexity orchid marketplace",
+      "isFavorite": false,
+      "id": 19
+    }
+  ]
+}
