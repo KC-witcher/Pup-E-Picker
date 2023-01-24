@@ -1,18 +1,143 @@
 {
   "dogs": [
     {
-      "name": "Hercules",
-      "image": "/src/assets/boxer.jpeg",
-      "description": "Strongest Dog Breed",
-      "id": 3,
-      "isFavorite": false
+      "name": "Amely",
+      "image": "/src/assets/dalmation.png",
+      "description": "Northwest reluctantly skinny invoice program Developer parsing likewise",
+      "isFavorite": false,
+      "id": 0
     },
     {
-      "name": "New Doggie",
+      "name": "Johann",
+      "image": "/src/assets/dalmation.png",
+      "description": "Auto Customer budgetary programming primary Springs downplay Awesome",
+      "isFavorite": false,
+      "id": 1
+    },
+    {
+      "name": "Nikolas",
       "image": "/src/assets/chihuahua.avif",
-      "description": "My New Doggie",
-      "id": 4,
-      "isFavorite": true
+      "description": "comfort Computers Northeast Vietnam Sedan",
+      "isFavorite": true,
+      "id": 3
+    },
+    {
+      "name": "Billy",
+      "image": "/src/assets/boxer.png",
+      "description": "Granite whose Electric warmly Rubidium Gasoline grow",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Ofelia",
+      "image": "/src/assets/dalmation.png",
+      "description": "violet er if port Bronze Luxurious Rap",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "name": "Adrien",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "Swaziland Touring sleepily compressing Ergonomic",
+      "isFavorite": false,
+      "id": 6
+    },
+    {
+      "name": "Mafalda",
+      "image": "/src/assets/corgi.png",
+      "description": "that access North application lest turquoise Chips",
+      "isFavorite": false,
+      "id": 7
+    },
+    {
+      "name": "Mara",
+      "image": "/src/assets/dalmation.png",
+      "description": "woman Peabody Southeast regarding Wagon",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "name": "Bryana",
+      "image": "/src/assets/dalmation.png",
+      "description": "Clyde York Mount upon optical",
+      "isFavorite": false,
+      "id": 9
+    },
+    {
+      "name": "Antonietta",
+      "image": "/src/assets/cowardly.png",
+      "description": "West kelvin Lek convergence unlike Indiana repurpose",
+      "isFavorite": true,
+      "id": 10
+    },
+    {
+      "name": "Zackery",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "Bicycle Decentralized override red Rap female Movies West",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "name": "Tremaine",
+      "image": "/src/assets/cowardly.png",
+      "description": "Fresh Bedfordshire payment untimely systemic",
+      "isFavorite": false,
+      "id": 12
+    },
+    {
+      "name": "Amari",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Rubber sensor yellow Gasoline Bronze",
+      "isFavorite": true,
+      "id": 13
+    },
+    {
+      "name": "Burnice",
+      "image": "/src/assets/dalmation.png",
+      "description": "Mercedes East revolutionary copying Republic circa Vermont Branding",
+      "isFavorite": false,
+      "id": 14
+    },
+    {
+      "name": "Vivienne",
+      "image": "/src/assets/cowardly.png",
+      "description": "South Avon Automotive watt Platinum Junction connecting",
+      "isFavorite": true,
+      "id": 15
+    },
+    {
+      "name": "Korey",
+      "image": "/src/assets/boxer.png",
+      "description": "maroon Human Miramar Accountability male Metal Kingdom Focused",
+      "isFavorite": false,
+      "id": 16
+    },
+    {
+      "name": "Kristian",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Shoes plum transparent Pula Tactics ubiquitous Southeast",
+      "isFavorite": false,
+      "id": 17
+    },
+    {
+      "name": "Filiberto",
+      "image": "/src/assets/cowardly.png",
+      "description": "Generic Sleek Lynch back Hybrid Steel Southwest Keyboard",
+      "isFavorite": true,
+      "id": 18
+    },
+    {
+      "name": "Frida",
+      "image": "/src/assets/boxer.png",
+      "description": "Hybrid Radial holistic B2C SMS Central Direct Folk",
+      "isFavorite": false,
+      "id": 19
+    },
+    {
+      "name": "Hercules",
+      "image": "/src/assets/cowardly.png",
+      "description": "Strongest Dog",
+      "id": 20
     }
   ]
 }

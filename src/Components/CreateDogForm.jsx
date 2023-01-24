@@ -13,12 +13,16 @@ export const CreateDogForm = ({ createDogs }) => {
       onSubmit={(e) => {
         e.preventDefault();
         createDogs(dogName, selectedImage, dogDescription);
+        setDogName("");
+        setDogDescription("");
+        setSelectedImage(dogPictures.BlueHeeler);
       }}
     >
       <h4>Create a New Dog</h4>
       <label htmlFor="name">Dog Name</label>
       <input
         type="text"
+        value={dogName}
         onChange={(e) => {
           setDogName(e.target.value);
         }}
@@ -29,6 +33,7 @@ export const CreateDogForm = ({ createDogs }) => {
         id=""
         cols="80"
         rows="10"
+        value={dogDescription}
         onChange={(e) => {
           setDogDescription(e.target.value);
         }}
@@ -36,6 +41,7 @@ export const CreateDogForm = ({ createDogs }) => {
       <label htmlFor="picture">Select an Image</label>
       <select
         id=""
+        value={selectedImage}
         onChange={(e) => {
           setSelectedImage(e.target.value);
         }}
